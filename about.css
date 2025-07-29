@@ -1,0 +1,15 @@
+body{
+    background-color: goldenrod;
+}
+a{
+    color: gold;
+}
+.logo{
+    background-color: rgb(7, 7, 7);
+    height: 200px;
+    width: 1500px;
+}
+.gcontainer{
+    display: flex;
+    justify-content: space-around;
+}
